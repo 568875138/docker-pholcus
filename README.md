@@ -1,6 +1,4 @@
-# Pholcus DOCKER镜像
-
-## 使用方法
+# Pholcus with Docker
 
 ### 通过Dockerfile构建
 ```
