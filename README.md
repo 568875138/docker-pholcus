@@ -2,7 +2,7 @@
 
 ## 使用方法
 
-### 自行编译
+### 通过Dockerfile构建
 ```
 git clone https://git.ustclug.org/Crawlerlearning/Pholcus/
 cd Pholcus
